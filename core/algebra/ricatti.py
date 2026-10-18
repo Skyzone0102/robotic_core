@@ -11,7 +11,6 @@ Cost:
 Convention:
     u[k] = -K[k] @ x[k]
 
-This module intentionally contains a scaffold rather than the solution.
 """
 
 import numpy as np
